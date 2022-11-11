@@ -2,4 +2,4 @@
 
 Using paper-made Jekyll replicas, piece together multiple pages by using Jekyll-like functionality.
 
-### [☛ See the complete details here.](http://learn-the-web.algonquindesign.ca/courses/web-dev-4/piecing-jekyll-together/)
+### [☛ See the complete details here.](https://learntheweb.courses/courses/web-dev-4/piecing-jekyll-together/)
